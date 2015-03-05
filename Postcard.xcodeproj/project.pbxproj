@@ -13,6 +13,8 @@
 		75FC91441AA7EFB40099DBCD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75FC91431AA7EFB40099DBCD /* Images.xcassets */; };
 		75FC91471AA7EFB50099DBCD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75FC91451AA7EFB50099DBCD /* LaunchScreen.xib */; };
 		75FC91531AA7EFB50099DBCD /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FC91521AA7EFB50099DBCD /* PostcardTests.swift */; };
+		75FC915D1AA7F2AB0099DBCD /* url.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75FC915C1AA7F2AB0099DBCD /* url.jpg */; };
+		75FC915F1AA7F5620099DBCD /* canberra_hero_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75FC915E1AA7F5620099DBCD /* canberra_hero_image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		75FC914C1AA7EFB50099DBCD /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75FC91511AA7EFB50099DBCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		75FC91521AA7EFB50099DBCD /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		75FC915C1AA7F2AB0099DBCD /* url.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = url.jpg; sourceTree = "<group>"; };
+		75FC915E1AA7F5620099DBCD /* canberra_hero_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = canberra_hero_image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		75FC913A1AA7EFB40099DBCD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				75FC915E1AA7F5620099DBCD /* canberra_hero_image.jpg */,
+				75FC915C1AA7F2AB0099DBCD /* url.jpg */,
 				75FC913B1AA7EFB40099DBCD /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				75FC91421AA7EFB40099DBCD /* Main.storyboard in Resources */,
+				75FC915D1AA7F2AB0099DBCD /* url.jpg in Resources */,
+				75FC915F1AA7F5620099DBCD /* canberra_hero_image.jpg in Resources */,
 				75FC91471AA7EFB50099DBCD /* LaunchScreen.xib in Resources */,
 				75FC91441AA7EFB40099DBCD /* Images.xcassets in Resources */,
 			);
